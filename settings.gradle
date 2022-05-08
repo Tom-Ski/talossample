@@ -1,0 +1,3 @@
+includeBuild("../bongo")
+
+include 'desktop', 'html', 'core'
