@@ -5,6 +5,7 @@
 - bongo can be in any directory, you just need to make sure `settings.gradle` is referencing bongo properly
 `../bongo` for the case where `bongo` and `talossample` or your project, share the same common parent.
 
+- Make sure version in gradle properties is 7.4 (matching this one)
 
 
 - To GdxDefinition.gwt.xml add
